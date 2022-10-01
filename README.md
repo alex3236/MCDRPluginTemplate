@@ -1,4 +1,4 @@
-# MyMCDRPluginTemplate
+# MCDRPluginTemplate
 
 [![](https://img.shields.io/badge/for-mcdr2-9cf?style=for-the-badge&labelColor=blue)](https://github.com/Fallen-Breath/MCDReforged)
 
@@ -15,5 +15,5 @@ cookiecutter
 这是一个 [Cookiecutter](https://github.com/cookiecutter/) 模板。
 
 ```
-cookiecutter gh:alex3236/MyPluginTemplate
+cookiecutter gh:alex3236/MCDRPluginTemplate
 ```
