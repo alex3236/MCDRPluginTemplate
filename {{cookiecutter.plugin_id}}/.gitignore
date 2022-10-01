@@ -7,5 +7,17 @@
 /*venv/
 /.pytest_cache
 
+# Build
+/build/
+/dist/
+
+# MCDR structure
+/log/
+/logs/
+/config/
+/server/*
+/plugins/*
+/*.yml
+
 # Random files
 /test.py

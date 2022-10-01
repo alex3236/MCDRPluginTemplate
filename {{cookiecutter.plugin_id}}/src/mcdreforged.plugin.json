@@ -1,0 +1,17 @@
+{
+    "id": "{{cookiecutter.plugin_id}}",
+    "version": "{{cookiecutter.version}}",
+    "name": "{{cookiecutter.plugin_name}}",
+    "description": {
+        "en_us": "{{cookiecutter.description_en}}",
+        "zh_cn": "{{cookiecutter.description_zh}}"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.2.0"
+    },
+    "resources": [
+        "lang"
+    ], 
+    "author": "{{cookiecutter.full_name}}",
+    "link": "https://github.com/{{cookiecutter.github_username}}"
+}

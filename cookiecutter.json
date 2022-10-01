@@ -1,0 +1,13 @@
+{
+    "plugin_id": "my_plugin",
+    "plugin_name": "My Plugin",
+    "description_zh": "插件介绍",
+    "description_en": "Plugin description",
+    "version": "0.1.0",
+    "full_name": "Alex3236",
+    "github_username": "alex3236",
+    "email": "foo@bar.com",
+    "_copy_without_render": [
+        "*.yml"
+    ]
+}

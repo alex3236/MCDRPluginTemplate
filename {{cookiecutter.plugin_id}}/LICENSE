@@ -1,9 +1,7 @@
             The Star And Thank Author License (SATA)
                     Version 2.0, April 2021
 
-Copyright © 2022 Alex3236(awa@alex3236.top)
-
-Project Url: https://github.com/alex3236/MyMCDRPluginTemplate
+Copyright © {% now 'utc', '%Y' %} {{cookiecutter.github_username}}({{cookiecutter.email}})
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
